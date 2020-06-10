@@ -12,7 +12,7 @@
     <div>
         <p class="notified">Or sign up</p>
     </div>
-    <div><button class="yellowButton btn btn--primary btn--md"><a href="http://cobaturage.loc/partials/page2.php">Create an account</a></button></div>
+    <div><button class="yellowButton btn btn--primary btn--md"><a href="http://cobaturage.loc/page2.php">Create an account</a></button></div>
    
  
    

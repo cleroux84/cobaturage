@@ -47,7 +47,14 @@
       <ul class="f-header__list flex-grow flex-basis-0 justify-end@md">
         <li class="f-header__item"><a href="http://cobaturage.loc/page2.php" class="f-header__btn btn btn--primary">Book a Yacht!</a></li>
       </ul>
+      <ul><div>
+      <i class="material-icons">person</i>    </div>
+    </ul>
+    <ul>
+        <h4 class="logged">NOM PRENOM</h4>
+    </ul>
     </div>
+    
   </div>
 </header>
 

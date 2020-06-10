@@ -9034,6 +9034,7 @@ Usage: codyhouse.co/license
 .f-header__list {
     display: flex;
     align-items: center;
+    margin-right: 30px;
   }
 
   .f-header__nav-grid {
@@ -9048,6 +9049,15 @@ Usage: codyhouse.co/license
   }
   .f-header__item:last-child {
     margin-right: 0;
+  }
+
+  .material-icons {
+    margin-right: 5px;
+  }
+
+  .logged {
+    margin-right: 20px;
+    color: blue;
   }
 
   .f-header__dropdown-icon {

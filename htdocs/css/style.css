@@ -8969,7 +8969,7 @@ Usage: codyhouse.co/license
   display: flex;
   margin: auto;
   z-index: 1;
-  margin-top: 288px;
+  margin-top: 348px;
   padding-top: 30px;
   background-color: rgba(6, 67, 107, 0.616);
   height: 300px;
@@ -9037,6 +9037,7 @@ Usage: codyhouse.co/license
 }
 
 .grid {
+  display: flex;
   justify-content: center;
 }
 
